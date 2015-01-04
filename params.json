@@ -1,0 +1,1 @@
+{"name":"Webhook-test","tagline":"This is a test of my post-commit webhook for checking out all pdfs to the gh-pages branch","body":"If everything is working properly, the lastest versions of the pdfs from master should automatically be checked out to this branch.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
